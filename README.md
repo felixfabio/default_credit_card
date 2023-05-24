@@ -1,7 +1,7 @@
 ## Modelo de Inadimplencia de Cartão de Crédito
 <img src='post-inadiplencia.jpg'>
 
-Também conhecido como Score de Propensão de Pagamento, o **Collection Score** se baseia em cálculos e pontuações para fazer uma classificação de risco. Ou seja, ele seleciona, dentr os clientes da carteira, aqueles que apresentam maior chance de pagar o que devem. Para chegar a essa segmentação, ocorre uma análise de uma série de dados, como histórico de negociações e cobranças anteriores, renda, situação financeira e afins.
+Também conhecido como Score de Propensão de Pagamento, o **Collection Score** se baseia em cálculos e pontuações para fazer uma classificação de risco. Ou seja, ele seleciona, dentre os clientes da carteira, aqueles que apresentam maior chance de pagar o que devem. Para chegar a essa segmentação, ocorre uma análise de uma série de dados, como histórico de negociações e cobranças anteriores, renda, situação financeira e afins.
 
 Quando se tem o conhecimento sobre os diferentes perfis de consumidores e tipos de inadimplentes, fica mais fácil encontrar uma abordagem que se comunique com cada um deles. Depois de conhecer o cliente, é possível oferecer a ele um atendimento personalizado com base nos dados obtidos pela análise. Com isso além de aumentar as chances de recebimento, é possível melhorar o relacionamento com o consumidor.
 
